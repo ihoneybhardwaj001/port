@@ -22,7 +22,7 @@ const EarthCanvas = () => {
     "https://twitter.com/ihoney_bhardwaj",
     "mailto:honeybhardwaj00064@gmail.com",
     "https://www.instagram.com/ihoneybhardwaj",
-    "https://www.linkedin.com/in/technical-honey-88380a1b6/",
+    "https://www.linkedin.com/in/honey-bhardwaj-88380a1b6/",
   ];
 
   useEffect(() => {
