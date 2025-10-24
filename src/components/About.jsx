@@ -46,14 +46,18 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-9xl leading-[30px]"
       >
-        I am an IT administrator proficient in managing and maintaining Linux servers, 
-        network hardware, and software. My expertise includes configuring and optimizing 
-        network performance, implementing security best practices, and providing technical
-         support to end-users. I have experience with AWS management, ensuring efficient 
-         cloud operations, and Azure Blob Storage management, facilitating secure and scalable 
-         data storage solutions. My role also involves administering and integrating Theatre 
-         Management Systems (TMS), combining traditional IT administration with modern cloud 
-         and network solutions to deliver comprehensive and innovative IT suppo 
+        I am a DevOps and Cloud Engineer with expertise in designing, deploying, 
+        and maintaining scalable infrastructure and CI/CD pipelines. 
+        I am proficient in managing Linux servers, cloud environments (AWS, GCP, Azure), 
+        and containerized applications using Docker and Kubernetes. 
+        My experience includes configuring and optimizing network performance,
+        implementing security best practices, and automating workflows
+        to enhance operational efficiency. I have hands-on experience 
+        with cloud storage solutions, such as Azure Blob Storage and AWS S3, 
+        ensuring secure, reliable, and scalable data management. 
+        Additionally, I integrate modern DevOps practices with traditional IT
+        operations to deliver robust, end-to-end infrastructure and cloud solutions.
+
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
