@@ -54,11 +54,11 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Linux Engineer",
+    title: "Devops Engineer",
     icon: web,
   },
   {
-    title: "Windows server",
+    title: "Cloud Engineer",
     icon: mobile,
   },
   {
@@ -66,7 +66,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Web3.0 Tester",
+    title: "Linux Engineer",
     icon: creator,
   },
 ];
@@ -117,7 +117,7 @@ const experiences = [
     ],
   },
   {
-    title: "IT Admin Support",
+    title: "IT Admin",
     company_name: "JJ Imprints Pvt Ltd.",
     icon: jj,
     iconBg: "#383E56",
@@ -130,7 +130,7 @@ const experiences = [
     ],
   },
   {
-    title: "IT Networking Engineer",
+    title: "IT Networking and Linux Engineer",
     company_name: "DRS IT Cosultancy Pvt Ltd.",
     icon: drs,
     iconBg: "#383E56",
@@ -144,18 +144,18 @@ const experiences = [
     ],
   },
   {
-    title: "IT Administration",
+    title: "Devops Engineer L2",
     company_name: "Systaldyn Pvt. Ltd.",
     icon: systaldyn,
     iconBg: "#383E56",
     date: "Feb 2024 - Current",
     points: [
-      "Managed and maintained Linux servers to ensure optimal performance and uptime.",
-      "Collaborated with cross-functional teams, including network engineers, system administrators, and support staff, to deliver robust IT solutions.",
-      "Implemented security best practices, such as regular updates, patch management, and vulnerability assessments, to safeguard systems and data.",
-      "Troubleshot and resolved technical issues, providing support to enhance system reliability and user satisfaction.",
-      "Monitored and optimized network performance, ensuring seamless connectivity and minimal downtime."
-    ],
+  "Designed, deployed, and maintained scalable CI/CD pipelines using tools like Jenkins, GitLab CI, and GitHub Actions to automate application delivery.",
+  "Collaborated with cross-functional teams, including developers, QA engineers, and system administrators, to streamline software deployment and infrastructure management.",
+  "Implemented infrastructure as code (IaC) using Terraform, Ansible, and Docker to ensure consistent and reliable environment provisioning.",
+  "Monitored and optimized cloud and on-premise infrastructure (AWS, GCP, Azure) for performance, reliability, and cost-efficiency.",
+  "Implemented security best practices in DevOps processes, including automated vulnerability scanning, patch management, and access control."
+]
   },
 
 ];
